@@ -10,12 +10,8 @@ KBBERT - Kör Kungliga bibliotekets BERT på texter för att få fram info om pl
 
 BERTsamf - Använd KBs BERT för att skapa sammanfattningar
 
-getpdf - hämta pdf-filer från en sajt
-getpdfandshow - hämta pdf-filer, visa innehållet och översätt via google
+getpdf - hämta pdf-filer från en sajt, getpdfandshow - hämta pdf-filer, visa innehållet och översätt via google
 
-readdoc - läs in en word-fil från användaren och visar innehållet inför analyser
-TanklabStyrRegler.doc - Word-exempelfil (labbspec)
+readdoc - läs in en word-fil från användaren och visar innehållet inför analyser, TanklabStyrRegler.doc - Word-exempelfil (labbspec)
 
-pavlovQA - fungerar tyvärr inte i colab nu (gamla versioner), hanterar frågor och svar
-180704_planbeskrivnig - exempeltext för pavlov
-pavlov_result_ - exempel på hur svaren kan se ut
+pavlovQA - fungerar tyvärr inte i colab nu (gamla versioner), hanterar frågor och svar, 180704_planbeskrivnig - exempeltext för pavlov, pavlov_result_ - exempel på hur svaren kan se ut
