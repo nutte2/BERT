@@ -1,0 +1,827 @@
+Fråga?
+Styrka   Svar
+-------------
+Var sträcker sig stambanan?
+
+  43.33  från Bräcke till Luleå
+ 199.01  mellan 200-250 km/h
+  58.39  mellan Umeå och Skellefteå
+   2.42  12 km
+   0.24  södra sidan
+   0.64  mellan Umeå, Skellefteå, Piteå och Luleå
+   3.19  genom övre Norrland
+  16.59  mellan Umeå och Luleå
+  16.79  km 0+000 till km 12+423 i spårets längdmätning
+   0.52  genomgående linjeföring
+   1.03  Stambanan genom övre Norrland sträcker sig i inlandet från Bräcke till Luleå
+5601.00  norra och södra Sverige
+  78.69  övre Norrland
+1936.08  mellan Ersboda och Ersmark
+  24.56  väg och järnväg
+ 107.79  övre Norrland
+  30.42  strax norr
+   1.63  mellan Ersboda och Ersmark
+  59.80  norra delen av en detaljplan
+   0.55  Järnvägsplanen tangerar detaljplanelagd mark vid Dåva industriområde
+  21.52  genom övre Norrland
+   0.95  nord-sydlig
+   0.80  Järnvägen passerar mellan två stadsdelar i Umeå kommun
+   7.53  mellan Ersmark och östra
+   1.16  Järnvägen börjar i utkanten av Umeå godsbangård
+  46.02  ca 3000 år sedan
+  94.13  sträckte sig 
+genom Umeå och vidare mot Täfteå och norrut
+  20.02  Järnvägen går genom I 20-skogen
+   7.80  Tavelån meandrar genom området
+ 319.90  väg 364
+17294.54  15-25 m bred
+   3.20  364 och Gamla Ersbodavägen
+   3.34  Järnvägen passerar genom skog och hyggen utan högre naturvärden
+  17.95  väg 364 och första passagen av Tavelån
+   0.55  norrut
+ 236.20  Ersmark-Anumark
+   1.66  364
+   8.81  två större bostadsområden
+  20.71  364
+   2.36  från norr till söder
+   0.15  öster om väg 645
+ 108.68  dels åt norr mot Tavelån och dels åt söder
+   5.21  Tavelån har ett slingrande lopp och ett antal järnvägspassager
+   0.59  högre partier utgörs terrängen av drumliner och små moränryggar
+ 273.70  ca 0-1,5 m
+  35.96  0+000–2+750 808441.25  öst-väst till sydväst-nordöst
+   1.43  från norr till söder
+  99.79  södra delen av deponin
+2242.69  väg 364 och väg 645
+   5.67  Järnvägen kommer däremot att passera ett dike
+ 596.19  12 km
+   0.11  Avsmalningar genomfördes på några ställen
+1908.25  Umeå-Dåva
+   1.61  nära anslutning till koloniområde och bostadsmiljöer i öppet 
+landskap
+  45.90  0+000–2+750
+   6.09  1,6 km lång
+  24.77  Ersmark och Ersboda
+  59.25  strax norr om elljusspår i Ersboda och Vadforsens 
+koloniområde
+ 636.18  ca 11+150
+ 242.04  8,2 m
+  35.84  5,5 m
+ 121.89  halva 
+spårtunnelns längd
+  73.13  395 m
+  24.34  Mellan tunneln och mötesstationen vid Ersboda (km ca 6+000)
+ 763.11  tre ställen
+   2.86  12 m eller mer
+  18.97  längs med tunneln
+ 114.08  km ca 6+900–7+800
+  40.90  Vid km ca 0+400
+
+-------------
+Vad innebär bristande kapacitet?
+
+  30.68  Att banan är enkelspårig
+  10.42  Att banan är enkelspårig
+ 599.74  Järnvägsplanen
+   6.38  grundvatten
+ 382.03  17 kap miljöbalken
+   5.02  Nollplus-alternativ
+   2.91  en ny bana längs kusten
+  14.79  timerad linje
+   9.84  Att banan är enkelspårig
+   4.42  Kraftvärmeverket
+   5.53  igenväxande diken
+  28.97  vägtrafikbuller
+  22.28  igenväxande marker
+   5.10  ster
+ 781.12  vattnet blir surt
+   4.67  försurat vatten
+  10.04  erget begränsad hållfasthet
+  10.88  järnvägssträckning
+   3.94  Alternativet
+  12.03  Linjerna
+  52.05  alternativ
+  15.91  tryckbankar
+   9.33  tryckbankar
+  29.97  tunnelsäkerhet
+  61.26  Planerad 
+järnväg
+   5.77  järnväg
+  21.72  mindre kostsamma metoder
+   6.81  linjestudien, där den sträckning som innebär minst påverkan på miljön
+  44.26  bullerskyddsplank
+ 149.77  driftskedet
+   3.14  Järnvägssträckningen stängslas
+  16.81  järnvägen
+  23.91  Järnvägsplanen
+   9.99  Luft
+Järnvägen
+   3.27  Rennäring
+Järnvägen
+   2.32  ytvattenresurser
+   8.41  överskott
+   1.35  fler tillgängliga spår som kan trafikeras vid händelse av en 
+olycka
+ 153.35  planalternativet
+ 407.63  Norrbotniabanan
+  26.04  re tåg
+   1.63  byggnadstid
+   4.09  Brandfarliga och explosiva varor
+  12.41  Norrbotniabanan
+  21.43  utsläpp
+
+-------------
+Vad är Norrbotniabanan?
+
+   3.76  enkelspårig
+2792.90  en ny kustnära järnväg mellan Umeå och Luleå
+   4.02  mellan Umeå och Skellefteå
+   3.92  Norrbotniabanan kommer att ansluta till Botniabanan
+6429.54  en ny kustnära järnväg mellan Umeå och 
+Luleå
+  79.25  en ny kustnära järnväg mellan Umeå och 
+Luleå
+   0.11  ett konkurrenskraftigt alternativ för godstransporter
+  16.28  säker
+  20.46  ett konkurrenskraftigt alternativ för godstransporter
+   0.93  mellan Umeå och Luleå
+  11.04  enkelspårig
+  34.63  Gamla Ersbodavägen, som går mellan Ersboda och 
+Ersmark
+ 179.65  järnvägssträckan Umeå-Holmsund
+   2.62  Alla Länstrafikens linjer som trafikerar 
+Norrlandskusten går via väg E4
+   1.49  Järnvägen passerar strax norr
+ 138.64  mellan Ersboda och Ersmark
+
+  54.14  nväg
+  11.06  järnvägen
+ 157.79  Järnvägen kommer att gå i tunnel
+  30.75  E12
+  16.45  järnvägspassager
+ 108.25  Tunneln 
+passerar den södra delen av deponin
+ 236.50  Järnvägen passerar både väg 364 och väg 645
+   2.01  Järnvägen kommer däremot att 
+passera ett dike
+   0.08  helhet
+
+-------------
+När ska den byggas?
+
+   8.18  Järnvägen kommer att anläggas med enkelspår
+ 434.64  under byggtiden
+   3.12  byggskedet
+3885.08  När järnvägsplanen fastställts
+ 504.58  under byggnadstiden
+ 634.88  först sedan järnvägsplanen vunnit laga kraft
+ 159.59  vid att tillgodose både mäns och kvinnors transportbehov
+  34.44  När planerad järnväg
+  15.87  mark som inte får bebyggas
+   0.13  medeltiden
+   8.19  järnväg
+   3.54  Längs den gröna korridoren
+  53.93  nybyggnad eller väsentlig ombyggnad av infrastruktur
+  25.56  När den har blivit full
+ 285.15  Eftersom diket skärs av
+   0.84  innan byggskedet
+   2.00  med hänsyn till naturupplevelser och framkomlighet
+   1.92  fram till passage under befintlig högspänningsledning
+  10.99  permanenta service- och ersättningsvägar planeras
+ 341.90  För att underlätta för djur som hamnat på fel sida av stängslet
+   3.44  järnvägen
+ 111.69  augusti – mars
+ 302.81  i första hand
+  13.35  väg 364
+   2.58  innan strandzonen
+   4.17  I 20-skogen
+   1.01  Järnvägsanläggningen innebär ett sår i landskapet genom I 20-skogen
+   3.22  genom tidigare relativt sammanhållna skogsområden
+   3.80  byggnadstiden
+  24.69  kraftigt
+   8.56  Under byggtiden
+   1.95  50 meter
+   5.28  när järnvägen byggs
+  22.84  Under byggnadstiden
+  27.31  kommande skeden
+   2.86  Inför byggnadstiden
+   3.87  innan färd ut på allmän väg
+ 892.51  under byggnadstiden
+  15.69  bropassagerna i Tavelån
+   8.73  under byggskedet
+   5.31  Inför byggskedet
+   6.44  En fullt utbyggd Norrbotniabana
+   0.03  Dåva industriområde
+  67.96  med hög säkerhetsstandard
+   1.70  utsläpp från byggtrafik
+   1.12  byggskedet
+  23.67  under byggskedet
+ 216.66  permanent och under byggskedet
+   2.66  år 2027
+ 226.95  byggnadstiden
+584295.44  när väghållaren har fått vägrätt
+   3.74  60 månader
+3387.57  När järnvägsplanen fastställts
+   2.49  innan arbetena påbörjas
+   2.18  järnväg
+  76.63  när järnvägen byggs
+   2.95  under byggtiden
+1905.79  först sedan järnvägsplanen vunnit laga kraft
+10265.10  när överenskommelse nåtts med fastighetsägaren
+ 126.59  under byggnadstiden
+-------------
+När ska Norrbotniabanan byggas?
+  43.80  När järnvägsplanen fastställts
+13086.69  först sedan järnvägsplanen vunnit laga kraft
+ 122.73  ca 3000 år sedan
+   0.62  innan byggskedet
+   9.92  augusti – mars
+   8.71  i första hand
+   2.14  järnvägen byggs
+   6.38  år 
+2040
+  38.22  under 
+byggnadstiden
+  14.77  Tavelån
+   6.13  under byggskedet
+   0.60  fullt utbyggd
+  13.95  under 
+byggnadstiden
+42279.82  när väghållaren har fått vägrätt
+   5.91  järnvägen byggs
+61059.25  först sedan järnvägsplanen vunnit laga kraft
+5801.84  när 
+överenskommelse nåtts med fastighetsägaren
+   9.79  under byggnadstiden
+-------------
+Hur är dragningen?
+
+   6.66  enkelspårig
+ 380.78  enkelspårig
+ 169.68  när 
+olika aspekter stått mot varandra
+  36.69  byggskedet
+  11.02  äggningen
+1202.87  enkelspårig
+   5.91  jorden
+   4.09  otillräckliga
+   1.81  enkelspårig
+   0.91  ett av 
+kommunens huvudcykelstråk
+   1.11  ådet
+ 559.47  isens 
+rörelseriktning
+   0.98  Tavelån
+   3.52  igenväxande diken
+   4.13  tydligt dikat
+   0.09  Norr om Ersboda, vid Nyåkersberget-Björsängesberget
+  13.24  Utanför 
+vägområden är halterna låga
+   1.55  de östra delarna av I 20-skogen
+  10.09  mellan 0 m till ca 19 m under markytan
+   2.22  dels åt norr mot Tavelån
+   4.20  Grundvattnets strömningsriktning sker från de högre partierna
+   4.09  Provtagning av vägdikesmassor vid 
+de båda vägarna är utförd
+ 545.46  et är förorenat
+  16.07  släppen 
+av växthusgaser
+   0.54  Motiven till bortval är flera
+   2.12  Intrånget i jordbrukslandskapet är stort
+ 280.33  när olika aspekter stått mot varandra
+   7.34  Längs med skärningen
+   9.18  mildare jordskärning
+  26.65  0-7 m
+  28.05  ter mot berget
+1531.22  ned i skärningen
+   1.64  Mellan tunneln och mötesstationen vid Ersboda
+   6.30  flack
+  27.65  flackt
+  33.29  12 m eller mer
+   0.46  längs med tunneln
+  10.31  gning 
+av broar nära vattendrag
+   2.38  sättas ut på plats i samråd med ansvariga för 
+Tavelsjöleden
+  18.62  två ställen
+   3.26  brons
+ 150.36  ett underlag till järnvägsplanen
+  18.55  öjning intill järnvägen
+ 140.14  närmare järnvägens passage med Gamla Ersbodavägen
+  38.81  Den valda brolösningen är så 
+pass bred
+   8.95  färdigbyggd
+   2.64  längs den djupa skärningen
+   3.81  Dammen
+ 964.78  I 20-skogen
+   8.11  Markintrånget påverkar fornlämningsmiljöns upplevelsevärde
+   4.18  undantagits från direkt markanspråk
+   1.75  Störst intrång sker 
+i det stadsnära skogsområdet i I 20-skogen
+   0.66  Trummor och broar
+  27.36  50 meter
+   3.27  stillastående i kortare eller längre perioder
+   1.27  50 meter
+   8.15  längsgående barriär mellan inlandet 
+och kustområdet
+  67.39  grundvattennivån
+   6.15  torr väderlek
+   0.49  västra 
+och östra tunnelpåslaget
+  10.17  lång
+   2.99  betonggjutning
+   1.16  Brandfarliga och explosiva varor
+  21.28  idigt
+   1.68  Måluppfyllelsen bedöms med hänsyn till 
+detta som god
+   2.25  damålet
+   4.15  över från väg till järnväg
+   1.14  Levande sjöar och vattendrag
+  48.56  järnvägen innebära att arter och deras 
+livsmiljöer påverkas negativt
+2229.20  hållbart och kretsloppsanpassat
+   2.79  I 20-skogen
+  11.80  2 kap miljöbalken
+  47.30  ridas under vare sig 
+drift- eller byggskedet
+   4.78  tunneln till Tavelån
+   9.05  Väster om 
+väg 363
+ 147.35  densamma för allmänna statliga och kommunala 
+vägar
+  35.67  när väghållaren har fått vägrätt
+   8.61  dagen för ianspråktagandet 
+med ränta och index
+  23.90  järnvägen en ytterligare barriär i ett 
+redan fragmenterat landskap
+   1.29  Prövning 
+enligt dessa bestämmelser inkluderas i planens fastställelse
+   6.45  ggningsprocessen och fastställs i en 
+järnvägsplan
+   3.11  ett underlag till planens plankartor
+ 204.00  et
+   4.01  byggskedet
+  81.82  en överenskommelse 
+med fastighetsägaren
+ 190.34  värdetidpunkten
+-------------
+
+Hur är dragningen av Norrbotniabanan ?
+
+  26.37  elektrifierad
+   8.24  Norrbotniabanan har utretts under en längre tid
+  12.33  järnvägsplanen för 
+Umeå-Dåva är först ut
+   1.50  Avvägningar har gjorts när 
+olika aspekter stått mot varandra
+   6.46  gen på bro
+  17.01  bro strax öster om befintlig sträckning
+   8.53  långsiktigt hållbar 
+utveckling
+   1.07  Norrbotniabanan kommer att ansluta till Botniabanan
+   1.07  Trafikverket har påbörjat planläggningen av den första etappen
+  17.89  strategisk
+   5.08  enligt den tidigare 
+planeringsprocessen med förstudie, utredning och plan
+2189.24  12 km
+   3.88  En omfattande upprustning av Stambanan enligt steg 4
+  15.03  säker, modernt utformad
+  90.17  den första länken
+  37.46  enkelspårig
+ 110.05  mellan Ersboda och 
+Ersmark
+  11.69  Hamnen är även den kopplad till Botniabanan
+   0.73  Godstrafiken på Stambanan genom övre Norrland är omfattande
+   8.77  strax norr om utredningsområde för framtida 
+bebyggelse i I 20-området
+   3.14  mellan Ersboda och Ersmark
+   3.42  Järnvägsplanen går genom den norra delen av en detaljplan
+  25.92  väster om väg 363
+ 260.69  I 20-skogen mellan Umeå och Ersmark
+   2.02  Järnvägen passerar mellan två stadsdelar i Umeå kommun
+ 295.30  cykelvägen mellan Ersmark och östra 
+delarna Ersboda
+   0.89  I den södra delen passerar väg E4 i 
+nord-sydlig riktning
+ 376.74  Järnvägen börjar i utkanten av Umeå godsbangård
+ 207.92  ca 3000 år sedan
+   8.08  sträckte sig 
+genom Umeå och vidare mot Täfteå och norrut
+   2.67  Järnvägen går genom I 20-skogen
+  26.73  Tavelån meandrar genom 
+området
+   1.61  Redan idag fungerar väg E12/E4 som en kraftig barriär i området
+ 815.70  väg 364
+ 255.70  15-25 m bred
+  14.91  1,5 m
+  11.57  364 och Gamla Ersbodavägen
+   2.13  järnväg passerar Tavelån
+ 506.19  Mosaiklandskapet vid Tavelån
+Öster om Gamla Ersbodavägen
+   4.91  artrik vägkant
+   1.68  planerad järnväg
+  30.03  Norr om Ersboda, vid Nyåkersberget-Björsängesberget
+  47.10  järnvägens 
+sträckning och tvärs över
+   0.99  364
+  27.20  öster om väg 645
+  32.41  nväg
+  30.50  Under första delen av sträckan följer järnvägen vattendelaren
+ 125.82  Järnvägen kommer att gå i tunnel genom Fäbod- och 
+Ersmarksberget
+  80.63  dels åt norr mot Tavelån
+ 313.57  Tunneln 
+passerar den södra delen av deponin
+  24.07  Järnvägen passerar både väg 364 och väg 645
+   3.23  den 
+sträckning som på bästa sätt uppfyller projektmål för sträckan Umeå-
+Dåva
+  37.77  sämre
+  16.77  viker efter Degermyran av i ett sydligare läge
+   1.34  I 20-skogen
+  21.13  10-20 m djup 
+jord- och bergskärning
+  86.58  Efter korsningen med väg 364, i området mellan Ersmark och Ersboda
+  42.23  Vid km ca 6+850
+   4.63  Vid km ca 8+450
+  74.03  ca 11+150
+   5.18  km ca 1+850
+   7.26  km ca 0+000-2+750
+ 101.31  ng ned i skärningen
+  24.04  Mellan tunneln och mötesstationen vid Ersboda
+  29.30  Planerad järnväg kommer att passera över Tavelån på bro på tre ställen
+   0.04  längs med tunneln
+   1.69  järnvägen går nära det småskaliga mosaiklandskapet vid Tavelån
+  63.28  Längs med den norra sidan av järnvägen
+  34.15  km ca 11+850
+   9.92  Passagen kommer att leda över 
+Storraningsbäcken
+   3.62  ett underlag till järnvägsplanen
+   0.85  i kanten av det småskaliga 
+mosaiklandskapet vid Tavelån
+ 630.03  närmare järnvägens passage med Gamla Ersbodavägen
+  13.93  Vägbron har tagits bort
+  94.02  färdigbyggd
+  42.66  100 m
+ 115.44  Längs den planerade järnvägen
+   9.80  6+080–
+6+380
+  51.65  väg 364
+   4.38  Dammen ska hantera 
+eventuellt förorenat vatten från tunneln
+   8.66  Järnvägsanläggningen innebär ett sår i landskapet genom I 20-skogen
+   6.64  cirka 50 meter nordost
+   8.72  undantagits från direkt markanspråk
+  10.47  Öster om väg 364
+   4.97  påverkan
+  36.42  50 meter
+   8.35  fullt 
+utbyggd
+   4.89  ökad möjlighet för människor att 
+resa mellan orterna längs Norrlandskusten
+ 293.11  längsgående barriär mellan inlandet 
+och kustområdet
+   3.87  grundvattennivån
+51120.65  fullt utbyggd
+   0.92  ökad möjlighet för människor att 
+resa mellan orterna längs Norrlandskusten
+   0.78  bra koppling till 
+målpunkter för gods och god tillgänglighet för alla befolkningsgrupper
+  71.50  Mycket god
+   4.15  brostöd 
+placerade på land invid vattenfåran
+   1.92  naturlig försurning
+  10.31  Mycket god
+  10.62  Mycket god
+ 207.99  över
+  18.57  de östra delarna av området mellan väg 364 och Dåva
+   9.59  järnvägen innebära att arter och deras 
+livsmiljöer påverkas negativt
+  32.08  Väster om 
+väg 363
+  10.76  Byggandet av vägen kan starta när väghållaren har fått vägrätt
+  18.16  vid korsande under den nya järnvägen
+   4.17  Byggstarten är planerad till 2018
+  85.99  konsekvensanalys för 
+rennäringen
+   2.85  delsträcka Umeå-Dåva
+-------------
+
+Var kommer det finnas stationer och var kommer resande utbyte ske?
+
+ 106.17  Avvägningar har gjorts när olika aspekter stått mot varandra
+   0.68  Resecentra lokaliseras centralt
+   1.28  Banan är i huvudsak enkelspårig med mötesstationer
+   3.93  Resecentrum där byten mellan olika trafikslag kan ske finns i Umeås 
+centrala delar
+ 263.52  När planerad järnväg och anslutning till Dåva industriområde 
+finns på plats
+   2.19  längs vissa uppkörda sträckor
+ 102.74  När den har blivit full kommer deponin att avslutas
+   2.53  Avvägningar har gjorts när olika aspekter stått mot varandra
+   8.54  tre platser
+   2.88  Mellan tunneln och mötesstationen vid Ersboda
+   8.60  Eftersom diket skärs av kommer ett nytt utlopp att anläggas
+   0.84  kommer omfattning på åtgärder att bestämmas
+   0.81  kommer att stängas
+   8.12  senare skeden
+  14.73  Passagen kommer att leda över 
+Storraningsbäcken
+   2.69  detaljplanearbete
+   2.87  kommer skyddsåtgärder 
+och anpassningar att vidtas
+   6.69  kommande skede
+  21.64  Tillgänglighet och rörlighet längs sträckan kommer 
+att minska
+  12.08  endast att ske
+   9.35  En masshanteringsplan för 
+projektet kommer att tas fram i kommande skeden
+  16.38  till följd av olycka
+   6.30  sen att 
+järnvägstrafiken blir stillastående i kortare eller längre perioder
+   0.63  en terminal kan anslutas till järnvägen
+  10.09  under hela genomförandefasen
+   3.77  genom tillfälliga 
+passager
+  59.66  50 m eller mer från vattendrag
+  30.24  i samband med uppstarten av tunnelbyggandet
+   2.94  Tillstånd ska sökas enligt MSBFS 2013:3 och 
+föreståndare skall finnas
+   0.89  Lokalisering av 
+mötesplatser bedöms vara mycket god
+   3.87  giska 
+samband kommer att brytas
+ 217.40  på begräns
+   4.56  begränsade områden
+   3.08  järnvägen innebära att arter och deras 
+livsmiljöer påverkas negativt
+   3.28  begränsade områden
+ 127.21  direkt eller indirekt
+  25.14  Avvägningar har gjorts när olika aspekter stått mot varandra
+   2.87  Värdetidpunkten för intrånget är den dag då marken tas i anspråk
+   5.35  När järnvägsplanen fastställts kommer en bygghandling att upprättas
+   4.62  kommande 
+tillståndsärenden
+   0.40  Inlösen
+  34.48  Byggande av järnväg får inte ske i strid med gällande detaljplan
+   1.05  både totalentreprenader och utförandeentreprenader 
+kan komma att bli aktuella
+  33.19  Längs med järnvägen
+ 265.38  innan bygget påbörjas
+6124.74  i god tid
+-------------
+
+Vad kostar projektet?
+
+ 276.85  högre transportkostnader
+ 654.93  skälig kostnad
+  75.29  måttligt negativa konsekvenser för miljön
+  24.47  hushållnings- och kretsloppsprinciperna
+ 324.00  oskäliga 
+kostnader
+20397.61  1,655 miljarder svenska kronor
+1072.64  lägsta möjliga kostnad
+  17.79  miljöpåverkan
+   9.02  stora förluster
+  18.61  riktvärden för nybyggnad av infrastruktur
+  13.33  stora konsekvenser för en eller flera aspekter
+14110.63  höga kostnader
+  68.34  höga kostnader
+11850.33  höga kostnader
+  14.77  ca 100 Mkr
+ 505.59  skälig 
+kostnad
+  62.99  120 år
+  37.69  smått
+  11.38  lägre kostnader
+  22.51  lägre kostnader för 
+godstransporter
+ 287.84  30 procent
+  25.47  ökad 
+tillgång och förbättrade pend
+5391.02  lägsta möjliga kostnad
+  10.56  lägst investeringskostnader
+3344.12  lägsta möjliga kostnad
+ 790.77  lägsta möjliga kostnad
+4509.04  lägsta möjliga kostnad
+  78.76  minskad övergödning
+   7.20  Inga våtmarker med högre värden
+  19.17  st om planerad järnväg och bedöms inte beröras av projektet
+   8.72  inte att några vandringshinder skapas
+  22.04  inte påverka möjligheten att uppnå fastställda 
+miljökvalitetsnormer
+ 178.85  oskäliga kostnader
+  39.87  mass
+   6.80  Planerad byggtid är ca fem år
+  36.70  Ersättning betalas till fastighetsägaren för den tillfälliga nyttjanderätten
+16632.79  1,655 miljarder svenska kronor
+-------------
+
+Vilka riktvärden för buller finns det?
+
+   3.87  7230
+   0.89  klövvilt som älg och rådjur
+   7.59  höga naturvärden
+   6.37  bäver
+   0.10  höga naturvärden
+   3.66  höga 
+naturvärden
+   0.32  buller från Norra länken och 
+järnvägen
+   1.63  fina strandbrinkar
+   3.54  höga 
+landskapsbildsvärden, kulturmiljövärden och naturmiljövärden
+  20.09  dsvärden, kulturmiljövärden och naturmiljövärden
+   2.52  Förekommande ytskikt av svallsediment
+  10.97  ägen
+  15.66  Området har lågt landskapsbildsvärde
+   6.99  grod- och kräldjur samt fladdermöss
+ 108.41  plankartan
+   0.44  områden som sedan tidigare inte är det
+  92.24  bullerstörningarna kommer 
+fortfarande att vara stora
+  81.68  50 000 m3
+   0.44  kända naturvärden
+   1.73  mindre
+   1.42  växter och djur
+  13.17  jordbruksmark, 
+tillgänglighet och boendemiljö
+ 681.71  höga rekreationsvärden
+   2.95  godsbangårdar
+   6.01  Buller och vibrationer
+   4.75  Omgivningsbuller (SFS 2004:675
+  13.84  bullerskyddsvallar
+   2.96  2.0 m i skog
+   0.98  4 500 m2
+10489.05  plankartor
+   4.36  grod- och kräldjur samt fladdermöss
+ 104.28  viltstängsel
+   4.62  Tillfälliga markanspråk
+För ytor
+-------------
+
+Vad gäller om min fastighet ligger nära Norrbotniabanan?
+
+   1.30  Tillgänglighet och rörlighet längs sträckan kommer 
+att minska
+   0.97  ökad tillgång till arbete, studier, service och shopping
+   2.16  r
+   4.09  Dessa 
+rättigheter kan inskränkas
+   5.90  inte annat avtalas med 
+fastighetsägaren
+   3.15  Vad som utgör allmän väg och väganordning läggs fast
+   4.80  Ersättning
+Fastighetsägaren har rätt till ersättning för mark
+-------------
+
+Blir det viltstängsel?
+
+ 133.28  södra sidan av järnvägen
+  10.65  5,5 m under markytan
+   0.69  Östra Ersboda och i öppet landskap
+   1.36  Längs med skärningen
+   1.75  södra sidan av järnvägen
+  55.74  ter mot berget
+  21.32  ökat buller
+   3.91  bullerstörningarna kommer 
+fortfarande att vara stora
+   3.92  50 meter till bebyggelse upprätthålls
+   3.51  Området är allmänt 
+flackt
+   7.77  bölesjön
+   1.24  överskrids 
+i samtliga vattendrag i Sverige
+   0.39  Väster om 
+väg 363
+   4.38  bullerskyddsvallar
+-------------
+
+Vad blir samhällsnyttan med järnvägen?
+
+ 223.66  låga
+   0.86  Järnvägen lokaliseras med stor hänsyn till omgivningen
+  27.59  Järnvägen lokaliseras med stor hänsyn till omgivningen
+   3.36  Gamla Ersbodavägen, som går mellan Ersboda och 
+Ersmark
+   0.84  direktförbindelse med Umeå hamn i Holmsund
+  12.50  strax norr om utredningsområde för framtida 
+bebyggelse i I 20-området
+   5.27  norr
+   2.84  cykelvägen mellan Ersmark och östra 
+delarna Ersboda
+  48.93  I 20-skogen
+2359.17  18 st inom 100 m
+   3.58  Mosaiklandskapet vid Tavelån
+Öster om Gamla Ersbodavägen
+  90.93  364
+  13.76  Norra länken
+   1.78  mellan Umeå och Vännäs
+16955.80  364
+  27.42  364
+   3.38  nväg
+   1.80  vattendelaren
+   2.96  väg E12
+  34.14  Tunneln 
+passerar den södra delen av deponin
+  48.01  Järnvägen passerar både väg 364 och väg 645
+  53.23  Järnvägen kommer däremot att 
+passera ett dike
+   1.74  nära bostadskva
+   3.29  Efter korsningen med väg 364
+   0.65  Vadforsens 
+koloniområde
+   2.23  i skärning
+   2.95  går 
+järnvägen till stor del i skärning
+   1.23  passagen av Gamla Ersbodavägen
+  10.25  kommer att stängas
+   1.73  mellan Gamla Ersbodavägen 
+och mötesstationen i Dåva
+   2.47  sämre bullerskydd
+ 327.66  öjning
+ 790.87  Järnvägssträckningen stängslas
+   4.09  södra sidan
+   4.75  väg 364
+   3.31  positiv
+   0.80  en anslutning till Dåva 
+industriområde via en godsterminal blir möjlig
+   2.65  måttligt negativa
+   0.25  naturmark tas i anspråk
+   7.37  redan ha undantagits från direkt markanspråk
+  38.77  50 meter
+  43.65  stillastående i kortare eller längre perioder
+  17.15  järnvägstrafiken blir stillastående
+   4.21  bör vara bebyggelsefria
+  97.16  väg E4
+   2.44  järnvägen medföra måttligt negativa 
+konsekvenser under byggnadstiden
+   7.77  två 
+tydliga utloppspunkter
+   3.39  bropassagerna i Tavelån
+   1.09  364
+   0.17  planskilda passager anordnas längs med järnvägen
+   1.46  Järnvägen kommer att ha en god standard
+   1.17  lägsta möjliga 
+kostnad
+   5.02  reducerats
+  54.10  inom en generation
+ 106.40  över från väg till järnväg
+  42.00  arter och deras 
+livsmiljöer påverkas negativt
+  78.60  låga
+   5.27  Påverkan blir mycket begränsad
+  22.90  både godstrafik och 
+persontrafik på vägar minskar
+   3.50  väg 363
+   1.45  försvårar åtkomsten till betesmarker 
+och minskar betesarealen
+   0.46  beslutet om fastställande 
+juridiskt bindande
+ 404.28  läggs fast
+  28.44  Byggande av järnväg får inte ske i strid med gällande detaljplan
+   1.26  ändra eller upphäva de delar av 
+detaljplanerna
+  82.76  det att behövas utrymme för 
+anläggningsarbeten
+   1.29  Fäbodvägen kommer att stängas under byggnadstiden
+-------------
+
+Kommer vi som bo nära att bli störda under byggtiden?
+
+   1.15  De flesta städerna är belägna längs kusten
+   0.34  permanent järnvägsmark, 
+vägområde för allmän väg eller tillfällig
+ 381.23  järnvägsmarken
+   6.86  mark som inte får bebyggas
+   3.91  en möjlig boplatsgrop är registrerad
+   1.24  sulfidjordarna
+  13.96  koloniområde
+   8.09  bostadskva
+   1.66  ommer att få en viss ökning av belastande ytor
+   0.65  Mängden svallis som bildas av grundvatten kan inte bedömas till 
+fullo
+   0.12  de övriga vägarna och passagerna ger tillräcklig 
+tillgänglighet
+  18.53  broarna
+   0.09  byggvägar
+   1.70  ägg och ungar
+  32.46  Fäbod- och Ersmarksberget
+   1.12  bullerstörningarna kommer 
+fortfarande att vara stora
+   3.81  Trummor och broar
+   5.72  Husgrund
+   2.40  bullerstörningar
+   2.29  l människor kommer att vistas i närheten av en stor transportled för 
+bland annat farligt gods
+  42.46  godsbangårdar
+   1.28  ridas under vare sig 
+drift- eller byggskedet
+  10.18  Trummor och 
+broar
+   0.05  järnvägsmark, 
+vägområde för statlig eller kommunal allmän väg eller tillfällig
+   3.84  Tillfälliga markanspråk
+För ytor
+   0.92  mark som ligger utanför själva 
+järnvägsområdet
