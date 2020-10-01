@@ -2,16 +2,20 @@
 A course at Region Västerbotten Kalle Prorok 2020-10-01
 We talk about how to handle text, particularly Swedish, with modern AI-NLP-methods.
 
-Glöm inte att slå på GPU i menyn.
+Glöm inte att slå på GPU i menyn i Colab.
 
-Filer:
+Filer: (ipynb är tänkta att köras i Google's Colab)
 
-KBBERT - Kör Kungliga bibliotekets BERT på texter för att få fram info om platser mm via NER
+KBBERT.ipynb - Kör Kungliga bibliotekets BERT på texter för att få fram info om platser mm via NER (kod från KB)
 
-BERTsamf - Använd KBs BERT för att skapa sammanfattningar
+BERTsamf.ipynb - Använd KBs BERT för att skapa sammanfattningar (kod från KB)
 
-getpdf - hämta pdf-filer från en sajt, getpdfandshow - hämta pdf-filer, visa innehållet och översätt via google
+getpdf.ipynb - hämta pdf-filer från en sajt, getpdfandshow.ipynb - hämta pdf-filer, visa innehållet och översätt via google
 
-readdoc - läs in en word-fil från användaren och visar innehållet inför analyser, TanklabStyrRegler.doc - Word-exempelfil (labbspec)
+readdocx.ipynb - läs in en word-fil från användaren och visar innehållet inför analyser, TanklabStyrRegler.doc - Word-exempelfil (labbspec)
 
-pavlovQA - fungerar tyvärr inte i colab nu (gamla versioner), hanterar frågor och svar, 180704_planbeskrivnig - exempeltext för pavlov, pavlov_result_ - exempel på hur svaren kan se ut
+pavlovQA.ipynb - fungerar tyvärr inte i colab nu (gamla versioner), hanterar frågor och svar, 180704_planbeskrivning.pdf - exempeltext för pavlov, pavlov_result_28sept.txt - exempel på hur svaren kan se ut
+
+gpt2text.txt - exempel på maskingenererat textavsnitt
+
+BERT_RVBTN.pdf - OH-bilderna från min presentation, innehåller massor med användbara länkar
